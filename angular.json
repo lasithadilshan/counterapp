@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "counterapp"
+    }
+  },
+  "defaultProject": "counterapp",
+  "cli": {
+    "analytics": false
+  }
 }
